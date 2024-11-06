@@ -1,0 +1,5 @@
+2024-10-15 19:05:19,036 - __main__ - INFO - TrainLoader Length: 13
+2024-10-15 19:05:21,295 - __main__ - INFO - Start Training
+2024-10-15 19:09:33,596 - __main__ - INFO - Train Epoch: 1 [0%]
+2024-10-15 19:09:34,185 - __main__ - INFO - Save Checkpoint, Path: G_0.pth, D_0.pth
+2024-10-15 19:44:32,972 - __main__ - INFO - ====> Epoch: 1
