@@ -13,6 +13,11 @@ pip install -r requirements.txt
 ## 🚀 Usage
 자세한 사용법은 `tutorial.ipynb`를 참고해주세요.
 
+## 🙏 Credits & References
+이 프로젝트는 다음 오픈소스 프로젝트들을 참고하여 제작되었습니다:
+
+- [JK-VITS](https://github.com/kdrkdrkdr/JK-VITS) - 한국어 TTS 모델
+
 ## ⚖️ License
 MIT License
 
