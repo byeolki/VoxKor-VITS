@@ -1,6 +1,7 @@
 # 🎙️ VoxKor-VITS
 
 VoxKor-VITS는 VITS(Conditional Variational Autoencoder with Adversarial Learning) 기반의 한국어 음성 합성 모델입니다. 간단한 텍스트 입력으로 자연스러운 한국어 음성을 생성할 수 있습니다.
+해당 프로젝트는 단대소고 포트폴리오 제출을 위해 제작되었습니다.
 
 ## ⚙️ Installation
 ```bash
