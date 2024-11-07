@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 
 ## 🚀 Usage
-자세한 사용법은 `main.ipynb`를 참고해주세요.
+자세한 사용법은 `tutorial.ipynb`를 참고해주세요.
 
 ## ⚖️ License
 MIT License
