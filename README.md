@@ -10,6 +10,8 @@ VoxKor-VITS는 VITS(Conditional Variational Autoencoder with Adversarial Learnin
 - 간편한 학습 및 커스텀 화자 추가
 
 ## ⚙️ Installation
+[**Please installation build-tools**](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+[**Please installation pytorch**](https://pytorch.org/)
 ```bash
 git clone https://github.com/YOUR_USERNAME/VoxKor-VITS.git
 cd VoxKor-VITS
